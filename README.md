@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Resume Generator
 - ⚡ Fun fact: I love to play piano and listen vinyl records
 - 📫 How to reach me: **saurkmez@gmail.com**
-- 📄 Know about my experiences : [Resume](https://en.files.fm/u/n8xumedvz#/view/s62kwb3du)
+- 📄 Know about my experiences : [Click Me!](https://en.files.fm/u/n8xumedvz#/view/s62kwb3du)
 
 ### Spotify Playing
 
