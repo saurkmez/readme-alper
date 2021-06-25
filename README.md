@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Resume Generator
-- ⚡ Fun fact: I love to play piano and listen vinyl records
+- ⚡ I love to play piano and listen vinyl records
 - 📫 How to reach me: **saurkmez@gmail.com**
 - 📄 Know about my experiences : [Click Me!](https://en.files.fm/u/n8xumedvz#/view/s62kwb3du)
 
