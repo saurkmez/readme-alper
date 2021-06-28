@@ -1,11 +1,5 @@
 ### Hi there, I'm [Alper][website]
 
-## I'm a Mechatronics Engineer and Front-End Developer
-
-### Spotify Playing
-
-[<img src="https://novatorem1-delta.vercel.app/api/spotify/" alt="Alper Spotify Playing" width="350" />](https://open.spotify.com/user/11122003973)
-
 ### Connect with me:
 
 [<img align="left" alt="alperurkmez.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
