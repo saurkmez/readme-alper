@@ -18,9 +18,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" /> </a> </p>
 
-<br />
-<br />
-
 [website]: https://alperurkmez.xyz
 [twitter]: https://twitter.com/aurkmez
 [instagram]: https://instagram.com/aurkmez
