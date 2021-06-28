@@ -1,14 +1,6 @@
 ### Hi there, I'm [Alper][website]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurkmez&label=Profile%20views&color=0e75b6&style=flat" alt="saurkmez" /> </p>
-
 ## I'm a Mechatronics Engineer and Front-End Developer
-
-- 🌱 I’m currently learning React
-- 🔭 I’m currently working on a customer's personal website.
-- ⚡ I love to play piano and listen vinyl records
-- 📫 How to reach me: **saurkmez@gmail.com**
-- 📄 Know about my experiences : [Click Me!](https://en.files.fm/u/n8xumedvz#/view/s62kwb3du)
 
 ### Spotify Playing
 
