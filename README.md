@@ -1,4 +1,4 @@
-### Hi there, I'm [Alper][website]
+### Hi there, I'm [Alper][linkedin]
 
 ### Connect with me:
 
